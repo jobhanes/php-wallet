@@ -1,7 +1,7 @@
-
 # PHP WALLET CLASS
 **************************
 PHP Wallet Class is a php abstraction and an easy to integrate class that introduces finance cash flow (Credit & Debit) module in your system.
+
 ![Wallet Image](https://raw.githubusercontent.com/jobhanes/php-wallet/master/output/01_preview1.jpg)
 
 # Release Information
@@ -57,7 +57,7 @@ or via our job.jovitec.com(https://job.jovi-tec.com) thank you.
 # Acknowledgement
 ***************
 
-* Author     : `JOBHANES BWIRE`                     						
+* Author     : JOBHANES BWIRE(https://job.jovi-tec.com)                     						
 * License    : The MIT License (MIT)
 * Version    : 1.0																	
 * Copyright  : JOVITEC TECHNOLOGIES LTD (job@jovi-tec.com | www.jovi-tec.com)
