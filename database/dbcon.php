@@ -3,14 +3,14 @@
 * #---------------------------------------------------------------------------------------------------#
 * # CLASS DBCON																					      #
 * #---------------------------------------------------------------------------------------------------#
-* @author     : Jovitec Technologies Ltd                     							              #
-* @license    : Standard Licence( Regular License on Evanto Market)					  			      #
+* @author     : Jovitec Technologies Ltd                     					      #
+* @license    : Standard Licence( Regular License on Evanto Market)				      #
 * @version    : 1.0																					  #
-* @copyright  : JOVITEC TECHNOLOGIES LTD <job@jovi-tec.com | www.jovi-tec.com>						  #
+* @copyright  : JOVITEC TECHNOLOGIES LTD <job@jovi-tec.com | www.jovi-tec.com>			      #
 * ----------------------------------------------------------------------------------------------------#
 * DEFINITION																						  #
 * ----------------------------------------------------------------------------------------------------#
-* Connects to the database, it creates secure connection to the database							  #
+* Connects to the database, it creates secure connection to the database			      #
 * Throws the database errors																		  #
 * It extends from the Exception class																  #
 * ----------------------------------------------------------------------------------------------------#
