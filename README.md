@@ -60,6 +60,6 @@ or via our job.jovitec.com(https://job.jovi-tec.com) thank you.
 * Author     : JOBHANES BWIRE(https://job.jovi-tec.com)                     						
 * License    : The MIT License (MIT)
 * Version    : 1.0																	
-* Copyright  : JOVITEC TECHNOLOGIES LTD (job@jovi-tec.com | www.jovi-tec.com)
+* Copyright  : JOVITEC TECHNOLOGIES LTD (www.jovi-tec.com)
 
 
