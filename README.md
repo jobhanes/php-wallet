@@ -3,33 +3,29 @@
 **************************
 PHP Wallet Class is a php abstraction and an easy to integrate class that introduces finance cash flow (Credit & Debit) module in your system.
 
-*******************
+
 # Release Information
-*******************
 
 This repo contains in-development code for future releases. To download the
-latest stable release please visit the `Jovitec Technologies Ltd
-<https://jovi-tec.com>`_ page.
+latest stable release please visit the Jovitec Technologies Ltd
+(https://jovi-tec.com)
 
-**************************
 # Changelog and New Features
-**************************
 
 You can find a list of all changes for each release in the `user
 guide change log [here](https://github.com/jobhanes/php-wallet/develop/user_guide_src/source/changelog.rst)
 
-*******************
-# Server Requirements
+Server Requirements
 *******************
 
-* PHP version 5.5 or newer is recommended.* 
+- PHP version 5.5 or newer is recommended.
 
 It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
-************
-# Installation
+
+Installation
 ************
 
 Please see the `installation section [HERE](https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf)
@@ -46,29 +42,25 @@ of the `Documentation` In the folders . But just to take you through the key poi
 5  Make sure it works well.
 ```
 
-*******
 # License
-*******
 
 Please see the `license
 agreement (https://github.com/jobhanes/php-wallet/blob/master/license.txt)
 
-*********
-# Resources
-*********
 
--  `User Guide <https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf>`
+# Resources
+
+-  `User Guide (https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf)
 
 Report security issues to our `Security Panel <mailto:admin@jovi-tec.com>`
 or via our `job.jovitec.com (https://job.jovitec.com) thank you.
 
-***************
 # Acknowledgement
 ***************
 
-* @author     : `JOBHANES BWIRE`                     						
-* @license    : Standard Licence( Regular License )
-* @version    : 1.0																	
-* @copyright  : `JOVITEC TECHNOLOGIES LTD (job@jovi-tec.com | www.jovi-tec.com)
+* Author     : `JOBHANES BWIRE`                     						
+* License    : The MIT License (MIT)
+* Version    : 1.0																	
+* Copyright  : `JOVITEC TECHNOLOGIES LTD (job@jovi-tec.com | www.jovi-tec.com)
 
 
