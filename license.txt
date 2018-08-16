@@ -1,0 +1,12 @@
+===========================================================================================
+				PHP WALLET CLASS
+===========================================================================================
+
+This class is therefore released on Standard Licence ( Regular License ),
+Should be redistributed as allowed by the MIT.
+
+@Copyright (c) : Jovitec Technologies Ltd
+email info@jovi-tec.com
++254702263351
+
+===========================================================================================
