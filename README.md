@@ -12,11 +12,10 @@ latest stable release please visit the Jovitec Technologies Ltd
 
 # Changelog and New Features
 
-You can find a list of all changes for each release in the `user
+You can find a list of all changes for each release in the user
 guide change log [here](https://github.com/jobhanes/php-wallet/develop/user_guide_src/source/changelog.rst)
 
-Server Requirements
-*******************
+# Server Requirements
 
 - PHP version 5.5 or newer is recommended.
 
@@ -25,10 +24,9 @@ such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
 
-Installation
-************
+# Installation
 
-Please see the `installation section [HERE](https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf)
+Please see the installation section(https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf)
 of the `Documentation` In the folders . But just to take you through the key points: 
 ```yaml
 1  Unzip the Wallet File that you downloaded 
@@ -44,16 +42,16 @@ of the `Documentation` In the folders . But just to take you through the key poi
 
 # License
 
-Please see the `license
+Please see the license
 agreement (https://github.com/jobhanes/php-wallet/blob/master/license.txt)
 
 
 # Resources
 
--  `User Guide (https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf)
+-  User Guide (https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf)
 
 Report security issues to our `Security Panel <mailto:admin@jovi-tec.com>`
-or via our `job.jovitec.com (https://job.jovitec.com) thank you.
+or via our job.jovitec.com(https://job.jovitec.com) thank you.
 
 # Acknowledgement
 ***************
@@ -61,6 +59,6 @@ or via our `job.jovitec.com (https://job.jovitec.com) thank you.
 * Author     : `JOBHANES BWIRE`                     						
 * License    : The MIT License (MIT)
 * Version    : 1.0																	
-* Copyright  : `JOVITEC TECHNOLOGIES LTD (job@jovi-tec.com | www.jovi-tec.com)
+* Copyright  : JOVITEC TECHNOLOGIES LTD (job@jovi-tec.com | www.jovi-tec.com)
 
 
