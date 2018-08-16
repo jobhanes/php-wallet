@@ -1,9 +1,3 @@
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 8c4f13c68ace3f0c66bb0a24a93b52a65436f3dd
 ###################
 PHP WALLET CLASS
 ###################
@@ -42,15 +36,15 @@ Installation
 Please see the `installation section <https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf>`_
 of the `Documentation` In the folders . But just to take you through the key points: 
 
-1  `Unzip the Wallet File that you downloaded <https://>`_
+1  `Unzip the Wallet File that you downloaded <https://#>`_
 
-2  `Copy the unzipped folder in to your system folder. <https://>`_
+2  `Copy the unzipped folder in to your system folder. <https://#>`_
 
-3  `Import the wallet_in & wallet_out tables in your database. {Located in /assets/} <https://>`_
+3  `Import the wallet_in & wallet_out tables in your database. (Located in /assets/) <https://#>`_
 
-4  `You can run some tests after the successful importation of tables {test bed folder is here /examples/} <https://>`_
+4  `You can run some tests after the successful importation of tables (test bed folder is here /examples/) <https://#>`_
 
-5  `Make sure it works well  <https://>`_
+5  `Make sure it works well  <https://#>`_
 
 *******
 License
@@ -78,13 +72,4 @@ Acknowledgement
 * @version    : 1.0																	
 * @copyright  : `JOVITEC TECHNOLOGIES LTD <job@jovi-tec.com | www.jovi-tec.com>`_.
 ---------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
 
