@@ -2,7 +2,7 @@
 # PHP WALLET CLASS
 **************************
 PHP Wallet Class is a php abstraction and an easy to integrate class that introduces finance cash flow (Credit & Debit) module in your system.
-
+![Wallet Image](https://raw.githubusercontent.com/jobhanes/php-wallet/master/output/01_preview1.jpg)
 
 # Release Information
 
@@ -28,6 +28,7 @@ issues, as well as missing features.
 
 Please see the installation section(https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf)
 of the `Documentation` In the folders . But just to take you through the key points: 
+
 ```yaml
 1  Unzip the Wallet File that you downloaded 
 
@@ -50,8 +51,8 @@ agreement (https://github.com/jobhanes/php-wallet/blob/master/license.txt)
 
 -  User Guide (https://github.com/jobhanes/php-wallet/blob/master/documentation/documentation.pdf)
 
-Report security issues to our `Security Panel <mailto:admin@jovi-tec.com>`
-or via our job.jovitec.com(https://job.jovitec.com) thank you.
+Report security issues to our Security Panel (mailto:admin@jovi-tec.com)
+or via our job.jovitec.com(https://job.jovi-tec.com) thank you.
 
 # Acknowledgement
 ***************
